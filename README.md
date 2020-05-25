@@ -1,6 +1,6 @@
 Getting and Cleaning Data Course Project part of Week4:
 
-This repository my solution for Getting and Cleaning Data course project part of Week4. It is having instructions on cleaning and running analysis on Human Activity recognition dataset.
+This repository is an assignment for Getting and Cleaning Data course project part of Week4. It is having instructions on cleaning and running analysis on Human Activity recognition dataset.
 
 Dataset:
 Human Activity Recognition Using Smartphones
